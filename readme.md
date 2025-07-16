@@ -28,7 +28,7 @@ The main purpose of this repository is to:
 
 ## 👨‍💻 Author
 
-Made with 💻 and curiosity by [dayronjp](https://github.com/dayronjp)
+Made with 💻 and curiosity by [dayronjp](https://github.com/dayronjp)<br>
 You can see it here: https://dayronjp.github.io/jscoursetest/
 
 ---
